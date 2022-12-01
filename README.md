@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm Krishna Verma
 
-<!--
-**Krish0018/Krish0018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm working as freelance Data Scientist at Fiverr. I've more than 5 years of total experinece in different industries. Proficient in Python, SQL, Power BI, Tableau, Machine Learning. Also I'm learning about Cloud Computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web Scraping project on a betting website.
+- 🌱 I’m currently learning Azure
+- 👯 I’m looking to collaborate on open source.
+- 💬 Ask me about Anything
+- 📫 How to reach me: verma.krish1993@gmail.com
+- 😄 Pronouns: he/him
+- 🌐 LinkedIn: https://www.linkedin.com/in/krishnaverma18/
+
+### Experinece
+                                                              
+ - Freelance Data Scientist - Working on data analysis, data extraction, model creation using different kinds of machine learning algorithms. Already worked  on different projects for clients all around the globe at Fiverr.
+ - Senior Engineer-Data Operation - Perform data analytics, labeling, and annotation processes on text and image data to create text and image detection at AI Touch
+ - Quality Engineer - Collaborated with the Production Engineer and Manager for the production, planning, and quality control of more than 50 railing product types at Rinox Railings.
+
+### Skills 🏹
+
+[![](https://img.shields.io/badge/Python-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant) [![](https://img.shields.io/badge/SQL-orange?style=for-the-badge)](https://github.com/hamzamohdzubair/redant) [![](https://img.shields.io/badge/Machine_Learning-yellow?style=for-the-badge)](https://github.com/hamzamohdzubair/redant) [![](https://img.shields.io/badge/Power_BI-grey?style=for-the-badge)](https://github.com/hamzamohdzubair/redant) [![](https://img.shields.io/badge/MongoDB-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant) [![](https://img.shields.io/badge/Statistics-orange?style=for-the-badge)](https://github.com/hamzamohdzubair/redant) [![](https://img.shields.io/badge/Spark-yellow?style=for-the-badge)](https://github.com/hamzamohdzubair/redant) [![](https://img.shields.io/badge/Data_Analytics-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant) [![](https://img.shields.io/badge/Web_Scraping-orange?style=for-the-badge)](https://github.com/hamzamohdzubair/redant) [![](https://img.shields.io/badge/A/B_Testing-yellow?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
