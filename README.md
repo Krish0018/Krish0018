@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Krishna Verma
 
 
-I'm working as freelance Data Scientist at Fiverr. I've more than 5 years of total experinece in different industries. Proficient in Python, SQL, Power BI, Tableau, Machine Learning. Also I'm learning about Cloud Computing.
+I'm working as freelance Data Scientist/Analyst at Fiverr. I've more than 5 years of total experinece in different industries. Proficient in Python, SQL, Power BI, Tableau, Machine Learning. Also I'm learning about Cloud Computing.
 
 - 🔭 I’m currently working on Web Scraping project on a betting website.
 - 🌱 I’m currently learning Azure
