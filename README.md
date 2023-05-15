@@ -3,8 +3,7 @@
 
 I'm working as freelance Data Scientist/Analyst at Fiverr. I've more than 5 years of total experinece in different industries. Proficient in Python, SQL, Power BI, Tableau, Machine Learning. Also I'm learning about Cloud Computing.
 
-- 🔭 I’m currently working on Web Scraping project on a betting website.
-- 🌱 I’m currently learning Azure
+- 🔭 I’m currently working on Analytics projects.
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about Anything
 - 📫 How to reach me: verma.krish1993@gmail.com
